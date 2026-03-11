@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/arduo-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a arduo-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/arduo-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/arduo/"
+    },
+    "homepage": "https://transpero.net/es/arduo/"
+}
